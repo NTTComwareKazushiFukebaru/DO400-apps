@@ -30,3 +30,5 @@ oc patch deployment security-scans \
 }
 }
 }
+}
+}
